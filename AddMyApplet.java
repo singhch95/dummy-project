@@ -2,7 +2,7 @@ import java.applet.*;
 import java.awt.event.*;
 import java.awt.*;
 //<applet code="MyApplet1.class" Height="350" Width="300"></applet>
-public class MyApplet1 extends Applet
+public class AddMyApplet extends Applet
 {
   Label l1,l2,l3;
   TextField t1,t2;
